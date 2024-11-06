@@ -13,6 +13,3 @@
 
 # 5. Write a function called 'find_max' that takes three numbers as parameters and returns the largest one.
 #    Test your function with different inputs and print the result.
-
-# 6. Modify the 'find_max' function to show how scope works by introducing a local variable
-#    inside the function and print it. Then, try printing it outside the function.
